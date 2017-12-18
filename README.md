@@ -14,6 +14,7 @@ _Yet to be announced_
    * Send the joining proposal to [Bytes Club Mailing List](mailto:bytes-club@googlegroups.com).
 
 ## Contribution
+   * Reference: [Contributing Guidelines](.github/CONTRIBUTING.md)
    * Create a directory of your Username (in GitHub) in particular Problem set and put your solution to them.
    * Create a Pull Request mentioning the Problem set you are solving along with your name and email address.
    * Alternatively you can mail us the patch containing above information.
