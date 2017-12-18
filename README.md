@@ -7,7 +7,26 @@ A Bytes Club initiative to improve Competitive Programming Culture.
    Our main objective is to implement the real life problems through Computer Science.
 
 ## Course Structure
-_Yet to be announced_
+   0. [Data Handling](pset0/) _(Optional)_
+
+      Contains basic problems on how to read and manage data from a specific structure.
+      Most of the problems does not require any Data Structure or Algorithm knowledge.
+
+      _**Preferred Language:** Shell, Python 3.x_
+
+      _**Due On:** 18-Dec-2017_
+
+   1. [Understanding Search](pset1/)
+
+      _Yet to be announced_
+
+   2. [Real-time Streaming](pset2/)
+
+      _Yet to be announced_
+
+   3. [Introduction to Big Data](pset3/)
+
+      _Yet to be announced_
 
 ## Notifications
    * Subscribe to [Bytes Club](https://groups.google.com/forum/#!forum/bytes-club) to get regular update and newsletter on this course.
