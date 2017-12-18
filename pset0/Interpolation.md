@@ -17,7 +17,9 @@
 ### Problem Statement
 Given a pair of integers denoting year and net profit of a company up to that year. You have to predict the profit the company is going to obtain in next 10 years.
 
+```
 0 < Year, Profit < 1000000000
+```
 
 _**Note:** Data is given for each consecutive year, i.e., equal intervals._
 
