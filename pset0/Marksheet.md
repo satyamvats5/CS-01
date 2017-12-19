@@ -25,7 +25,7 @@ Then there will be one integer **Q** denoting the number of query
 Each query will hold two integers: **Roll, Subject**
 
 ```
-0 < Marks <= 100
+0 < N, Q, Marks <= 100
 ```
 
 ### Sample I/O
